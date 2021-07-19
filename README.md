@@ -6,7 +6,7 @@ GitHub: https://github.com/Pgturn68/Budget-Tracker-Homework
 
 Live site: https://pgturn68.github.io/Budget-Tracker-Homework/
 
-Heroku link: https://dashboard.heroku.com/apps/budget-tracker-homework/deploy/github
+Heroku link: https://budget-tracker-homework.herokuapp.com/
 
 
 
